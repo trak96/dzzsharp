@@ -1,0 +1,15 @@
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\Z41.csproj.AssemblyReference.cache
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\Z41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\Z41.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\Z41.AssemblyInfo.cs
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\Z41.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\bin\Debug\net6.0\Z41.exe
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\bin\Debug\net6.0\Z41.deps.json
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\bin\Debug\net6.0\Z41.runtimeconfig.json
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\bin\Debug\net6.0\Z41.dll
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\bin\Debug\net6.0\Z41.pdb
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\Z41.dll
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\refint\Z41.dll
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\Z41.pdb
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\Z41.genruntimeconfig.cache
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs6\Z41\obj\Debug\net6.0\ref\Z41.dll
