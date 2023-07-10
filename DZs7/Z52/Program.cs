@@ -45,7 +45,7 @@ void Arifm(int[,] matrix)
         {
             sum += matrix[i, j];
         }
-        Console.Write($"{ Math.Round(sum / matrix.GetLength(0),2)} " + "\t");
+        Console.Write($"{Math.Round(sum / matrix.GetLength(0), 2)} " + "\t");
     }
 }
 
