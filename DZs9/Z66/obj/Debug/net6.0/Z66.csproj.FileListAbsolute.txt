@@ -1,0 +1,15 @@
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\Z66.csproj.AssemblyReference.cache
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\Z66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\Z66.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\Z66.AssemblyInfo.cs
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\Z66.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\bin\Debug\net6.0\Z66.exe
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\bin\Debug\net6.0\Z66.deps.json
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\bin\Debug\net6.0\Z66.runtimeconfig.json
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\bin\Debug\net6.0\Z66.dll
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\bin\Debug\net6.0\Z66.pdb
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\Z66.dll
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\refint\Z66.dll
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\Z66.pdb
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\Z66.genruntimeconfig.cache
+C:\Users\GB\Desktop\GB\C#\DZ C Sharp\DZs9\Z66\obj\Debug\net6.0\ref\Z66.dll
